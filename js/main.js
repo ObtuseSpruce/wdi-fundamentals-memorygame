@@ -10,7 +10,7 @@ var cards = [
 		rank: "queen",
 		suit: "diamonds",
 		cardImage: "images/queen-of-diamonds.png",
-	}
+	},
 	{
 		rank: "king",
 		suit: "hearts",
